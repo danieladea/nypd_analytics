@@ -1,6 +1,9 @@
-This is a project for the first data competition held at UCLA by 
+This is a project for the first data competition held at UCLA by Diversity and Inclusion in Product and Data / UCLA Data Science Union
 Prompt can be found here: https://drive.google.com/file/d/1IdEgG11xZ-qvWvzOLRMnF3q84q7bZYBm/view
+The goal was to build a case for discrimination in arrests in New York.
 
-I used pandas and Tableau, as well as folium to visualize data and show statistics on NYPD arrests.
+Using a jupyter notebook, I did exploratory data analysis of NYPD arrests over 13 years. I used pandas and Tableau to visualize data and show statistics on NYPD arrests. Additionally, I used folium to create a heat map of arrest data. 
+
+Report can be found under DSU 2020 pdf
 
 
